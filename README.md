@@ -7,7 +7,7 @@
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/insan-career/jimmy-koobits.git
+   git clone  https://github.com/insan-career/DotNetCoreWebAPI.git
 2. Go to folder `Programming/DotNetCoreWebAPI`
 3. Double click on `DotNetCoreWebAPI.sln`
 4. On top menu bar, click on `Build -> Build Solution` 
