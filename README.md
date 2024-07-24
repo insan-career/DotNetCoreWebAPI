@@ -8,10 +8,9 @@
 1. Clone the repository:
    ```bash
    git clone  https://github.com/insan-career/DotNetCoreWebAPI.git
-2. Go to folder `Programming/DotNetCoreWebAPI`
-3. Double click on `DotNetCoreWebAPI.sln`
-4. On top menu bar, click on `Build -> Build Solution` 
-5. Make sure `Build Output` on below panel is showing `Build completed in [00:00:xx.xxx]`
+2. Double click on `DotNetCoreWebAPI.sln`
+3. On top menu bar, click on `Build -> Build Solution` 
+4. Make sure `Build Output` on below panel is showing `Build completed in [00:00:xx.xxx]`
 
 ### Run
 1. On top menu bar, click on `Run -> Run DotNetCoreWebAPI:https` 
